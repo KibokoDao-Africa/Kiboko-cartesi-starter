@@ -13,6 +13,9 @@ Buidl a Cartesi Dapp the Kiboko way!
 # Usage
 <!-- usage -->
 ```sh-session
+
+// Install kiboko-cartesi globally in your computer
+
 $ npm install -g kiboko-cartesi
 
 USAGE
