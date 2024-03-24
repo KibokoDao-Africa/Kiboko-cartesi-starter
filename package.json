@@ -1,7 +1,7 @@
 {
   "name": "kiboko-cartesi",
-  "version": "0.4.33",
-  "description": "setup of a Cartesi DApp monorepo, making it easier and quicker for developers to start building innovative blockchain solutions.",
+  "version": "0.4.36",
+  "description": "Setup of a Cartesi DApp monorepo, making it easier and quicker for developers to start building innovative blockchain solutions.",
   "keywords": [
     "oclif"
   ],
