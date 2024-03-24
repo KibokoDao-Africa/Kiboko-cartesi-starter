@@ -1,11 +1,11 @@
 {
   "name": "kiboko-cartesi",
-  "version": "0.4.31",
+  "version": "0.4.32",
   "description": "setup of a Cartesi DApp monorepo, making it easier and quicker for developers to start building innovative blockchain solutions.",
   "keywords": [
     "oclif"
   ],
-  "homepage": "/https://github.com/DennohKim/Kiboko-cartesi-starter",
+  "homepage": "https://github.com/DennohKim/Kiboko-cartesi-starter",
   "bugs": "https://github.com/DennohKim/Kiboko-cartesi-starter/issues",
   "repository": "https://github.com/DennohKim/Kiboko-cartesi-starter",
   "license": "MIT",
