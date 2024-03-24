@@ -1,7 +1,7 @@
 {
   "name": "kiboko-cartesi",
-  "version": "0.4.37",
-  "description": "Setup of a Cartesi DApp monorepo, making it easier and quicker for developers to start building innovative blockchain solutions.",
+  "version": "0.4.41",
+  "description": "setup of a Cartesi DApp monorepo, making it easier and quicker for developers to start building innovative blockchain solutions.",
   "keywords": [
     "oclif"
   ],
@@ -19,11 +19,10 @@
   "files": [
     "/bin",
     "/dist",
-    "/dist/commands",
     "/oclif.manifest.json"
   ],
   "scripts": {
-    "build": "tsc -b && cp package.json dist/commands" ,
+    "build": "shx rm -rf dist && tsc -b",
     "lint": "eslint . --ext .ts",
     "prepack": "npm run build && oclif manifest",
     "postpack": "shx rm -f oclif.manifest.json",

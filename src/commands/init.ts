@@ -69,7 +69,7 @@ export default class Init extends Command {
   
     process.chdir(projectDir); // Change back to the original directory 
   
-    // ... Your backend selection and setupBackendWithCommand logic ...
+    // backend selection and setupBackendWithCommand logic ...
     const {backendTemplate} = await inquirer.prompt([
       // Updated backend choices
       {
@@ -128,3 +128,4 @@ export default class Init extends Command {
     }
   }
   
+``

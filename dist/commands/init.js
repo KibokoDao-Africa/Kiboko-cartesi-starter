@@ -51,7 +51,7 @@ async function setupProject(projectDir) {
     ]);
     await cloneAndSetup('frontend', frontendTemplate);
     process.chdir(projectDir); // Change back to the original directory 
-    // ... Your backend selection and setupBackendWithCommand logic ...
+    // backend selection and setupBackendWithCommand logic ...
     const { backendTemplate } = await inquirer.prompt([
         // Updated backend choices
         {
@@ -102,3 +102,4 @@ async function setupBackendWithCommand(commandTemplate) {
         console.error('Error setting up backend:', error);
     }
 }
+``;
