@@ -15,6 +15,7 @@ Buidl a Cartesi Dapp the Kiboko way!
 ## Requirement
 
 - [NodeJS](https://nodejs.org/en/download/source-code/current)
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
 - [Sunodo](https://docs.sunodo.io/guide/introduction/installing)
 
 <!-- usage -->
