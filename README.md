@@ -14,11 +14,7 @@ Buidl a Cartesi Dapp the Kiboko way!
 <!-- usage -->
 ```sh-session
 $ npm install -g kiboko-cartesi
-$ kiboko-cartesi COMMAND
-running command...
-$ kiboko-cartesi (--version)
-kiboko-cartesi/0.4.24 darwin-arm64 node-v21.7.1
-$ kiboko-cartesi --help [COMMAND]
+
 USAGE
   $ kiboko-cartesi init
 ...
