@@ -11,6 +11,12 @@ Buidl a Cartesi Dapp the Kiboko way!
 * [Commands](#commands)
 <!-- tocstop -->
 # Usage
+
+## Requirement
+
+- [NodeJS](https://nodejs.org/en/download/source-code/current)
+- [Sunodo](https://docs.sunodo.io/guide/introduction/installing)
+
 <!-- usage -->
 ```sh-session
 
