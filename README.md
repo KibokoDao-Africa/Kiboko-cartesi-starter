@@ -1,8 +1,9 @@
-Kiboko-cartesi
+#Kiboko-cartesi
 =================
 
 Buidl a Cartesi Dapp the Kiboko way!
-
+[![npm version](https://img.shields.io/npm/v/kiboko-cartesi.svg)](https://www.npmjs.com/package/kiboko-cartesi)
+[![npm downloads](https://img.shields.io/npm/dt/kiboko-cartesi)](https://www.npmjs.com/package/kiboko-cartesi)
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![GitHub license](https://img.shields.io/github/license/oclif/hello-world)](https://github.com/oclif/hello-world/blob/main/LICENSE)
 
